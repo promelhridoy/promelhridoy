@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [Promel Hossain Hriduy] 👋</h1>
 
 <p align="center">
   A passionate <strong>MERN Stack Developer</strong> building clean, scalable web experiences.
