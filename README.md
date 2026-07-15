@@ -50,15 +50,15 @@ I strongly believe in clean code architecture, intuitive user experiences, and c
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
 **Tools & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
 
