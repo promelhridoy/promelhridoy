@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/promel-hridoy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:promel.hridoy12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/promelhridoy)
 
@@ -19,6 +19,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=promelhridoy&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
 ![Location](https://img.shields.io/badge/📍_Cumilla,_Chattogram,_Bangladesh-2E3192?style=for-the-badge)
+![Phone](https://img.shields.io/badge/📞_+880_1878--874477-2E3192?style=for-the-badge)
 
 </div>
 
@@ -98,7 +99,7 @@ I strongly believe in clean code architecture, intuitive user experiences, and c
       <td>React · Tailwind CSS · Node.js · MongoDB</td>
       <td>
         <a href="https://github.com/promelhridoy/LegelEase">Code</a> ·
-        <a href="https://your-legelease-live-link.com">Live</a>
+        <a href="https://legalease-red.vercel.app/">Live</a>
       </td>
     </tr>
     <tr>
@@ -107,16 +108,16 @@ I strongly believe in clean code architecture, intuitive user experiences, and c
       <td>React · CSS3 · Node.js · Express</td>
       <td>
         <a href="https://github.com/promelhridoy/study-nook">Code</a> ·
-        <a href="https://your-study-nook-live-link.com">Live</a>
+        <a href="https://study-nook-kappa.vercel.app/">Live</a>
       </td>
     </tr>
     <tr>
-      <td><strong>💻 Assignment-7</strong></td>
-      <td>A client-side web application demonstrating advanced JavaScript and React concepts, including state management and API integration.</td>
+      <td><strong>🐐 Qurbanir Hat</strong></td>
+      <td>An online marketplace platform for buying and selling sacrificial animals, featuring product listings and search/filter functionality.</td>
       <td>React · JavaScript · CSS3</td>
       <td>
-        <a href="https://github.com/promelhridoy/Assignment-7">Code</a> ·
-        <a href="https://your-assignment7-live-link.com">Live</a>
+        <a href="https://github.com/promelhridoy/Qurbanir-Hat">Code</a> ·
+        <a href="https://qurbanir-hat-tau.vercel.app/">Live</a>
       </td>
     </tr>
   </tbody>
@@ -131,7 +132,8 @@ I'm open to **freelance projects**, **open-source collaborations**, and **full-t
 <div align="center">
 
 [![Send Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:promel.hridoy12@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/promel-hridoy/)
+[![Call Me](https://img.shields.io/badge/Call_+880_1878--874477-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801878874477)
 
 <br/>
 
